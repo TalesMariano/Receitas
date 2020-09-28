@@ -5,10 +5,10 @@ Chá gelado Melissa Laranja
 - 2 Colheres Melissa
 
 Processo
-água fervida
-infusão por 5 minutos
-Adicionado as laranjas no chá em jarra
-levado a geladeira
+- água fervida
+- infusão por 5 minutos
+- Adicionado as laranjas no chá em jarra
+- levado a geladeira
 
 
 Referencia
