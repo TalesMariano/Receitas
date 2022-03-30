@@ -3,6 +3,7 @@
 Faz sorvete moendo banana congelada ou outras frutas
 
 Obs.
+* Sempre começar o sorvete com uma base pastosa
 * Banana pode ser usada como base para vários sabores
 * É comum usar leite condensado para adoçar os sorvetes, caso as frutas não estejam maduras o suficiente
 * Tentar adoçar com mel
@@ -41,7 +42,8 @@ Obs.
 * Morango Lavados Congelados
 
 Obs.
-* Não testei ainda
+* Morango ficam duros como gelo
+* Eles ficam em pedaçinhos gelados
 * Fazer misturado com banana
 
 ---
@@ -92,6 +94,7 @@ Obs.
 * Ganache foi congelado em uma forma de silicone para gelo
 * Testar misturar com bananas 
 * O ganache não congela, fica uma pastinha
+* Também descongela rápido demais
 * Testar fazer 50g Creme de leite + 50g Leite para ficar menos gorduroso 
 
 ---
