@@ -3,6 +3,7 @@
 Faz sorvete moendo banana congelada ou outras frutas
 
 Obs.
+* Banana pode ser usada como base para vários sabores
 * É comum usar leite condensado para adoçar os sorvetes, caso as frutas não estejam maduras o suficiente
 * Tentar adoçar com mel
 
@@ -10,8 +11,8 @@ Obs.
 
 ## Banana com Goiabada
 
-* Banana congelada
-* Goiabada Cascão
+* 1 Banana congelada
+* 1 tira Goiabada Cascão
 
 Obs.
 * A goiabada deixa uma textura de pedaços muito boa, porém muito doçe se utilizada a goiabana normal
@@ -32,6 +33,16 @@ Obs.
 
 Obs.
 * Tem gosto de vitamina
+* É bom, recomendo
+
+---
+
+## Morango
+* Morango Lavados Congelados
+
+Obs.
+* Não testei ainda
+* Fazer misturado com banana
 
 ---
 
@@ -67,6 +78,7 @@ Obs.
 Obs.
 * Descongelou rapido, não sei se retirei as laranjas antes do tempo
 * Adocei com groselha, mas é dificil acertar o ponto
+* Fica muito fibroso por conta da pele, não recomendo muito
 
 ---
 ## Chocolate
@@ -81,3 +93,23 @@ Obs.
 * Testar misturar com bananas 
 * O ganache não congela, fica uma pastinha
 * Testar fazer 50g Creme de leite + 50g Leite para ficar menos gorduroso 
+
+---
+
+### Próximos sabores a testar
+
+* Pessego
+* Ameixa
+* Maçã verde
+* Uva Verde
+* Mamão
+* Figo
+* Kiwi
+* Melão
+* Melancia
+* Maracuja
+* Goiaba
+* Coco
+* Cereja
+* Carambola
+* Abacate
